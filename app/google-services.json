@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "517662529563",
+    "firebase_url": "https://nason-a9d2f.firebaseio.com",
+    "project_id": "nason-a9d2f",
+    "storage_bucket": "nason-a9d2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517662529563:android:8257ae2ebb3cb4b3",
+        "android_client_info": {
+          "package_name": "com.example.naveenkumar.nason"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517662529563-qu06sitosqmmb24e03up2m97dlpgnfb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.naveenkumar.nason",
+            "certificate_hash": "7ba749c38380c6b4bdefa9ef57926b366d10537b"
+          }
+        },
+        {
+          "client_id": "517662529563-mga437j0da2ieeko6bsi6545fjvse718.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBciO_cCsBtGmA4uVldwfDtMMQookxvNYc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517662529563-mga437j0da2ieeko6bsi6545fjvse718.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
